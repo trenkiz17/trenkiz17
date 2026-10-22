@@ -1,0 +1,35 @@
+PERFIL DO GITHUB — LEONARDO SILVA (@trenkiz17)
+======================================================
+
+ANTES: seu GitHub precisa ter um repositório PÚBLICO com o nome exato
+"trenkiz17". É nele que o GitHub lê o README do perfil.
+
+1. Entre em https://github.com/trenkiz17/trenkiz17
+2. Adicione/substitua o arquivo README.md da RAIZ do repositório.
+3. Adicione o arquivo .github/workflows/snake.yml, preservando as pastas.
+   No navegador, você pode fazer Add file > Create new file e colocar
+   o nome inteiro: .github/workflows/snake.yml
+4. Salve/commit os dois arquivos na branch principal (main).
+5. Abra o repositório > Actions > "Atualizar cobrinha do GitHub" >
+   Run workflow > Run workflow (a primeira execução pode ser feita manualmente).
+6. Confirme se a execução concluiu com sucesso e se a branch "output"
+   foi criada. Então atualize https://github.com/trenkiz17
+
+SE DER ERRO DE PERMISSÃO NA ETAPA DE PUBLICAÇÃO:
+No repositório, abra Settings > Actions > General > Workflow permissions,
+se disponível marque "Read and write permissions" e salve. Depois rode
+novamente a ação.
+
+LINKS INCLUÍDOS:
+GitHub:    https://github.com/trenkiz17
+LinkedIn:  https://www.linkedin.com/in/leonardo-barbosa-silva-b9122734b/
+Instagram: https://www.instagram.com/_leosilva.26/
+Portfólio: https://trenkiz17.github.io/portifolio/
+
+OBSERVAÇÕES:
+- A borda do README e o pequeno nome "trenkiz17 / README.md" são
+  colocados automaticamente pelo GitHub.
+- Para ter fundo preto como na imagem, escolha o tema escuro do GitHub.
+- Estatísticas e gráficos exibem suas informações reais; não reproduzem
+  os números ou as contribuições do perfil usado como referência.
+- Os cartões externos dependem dos serviços de imagem estarem acessíveis.
