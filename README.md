@@ -1,19 +1,40 @@
+<!--
+  PERFIL GITHUB | trenkiz17
+  Para aparecer em github.com/trenkiz17:
+  salve este arquivo como README.md na RAIZ do repositório público
+  github.com/trenkiz17/trenkiz17.
+  Perfil inspirado na organização visual da referência fornecida.
+-->
+
 <div align="center">
 
-Olá! Bem-vindo ao meu GitHub 👋
-💻 Desenvolvedor em formação | Técnico em Informática
-Transformando ideias em projetos e evoluindo a cada linha de código.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=250000&color=00E5FF&center=true&vCenter=true&width=640&height=48&lines=Leo+Silva"
+    alt="Leo Silva"
+  />
 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2500&pause=1000&color=F0F6FC&center=true&vCenter=true&width=660&height=35&lines=Construindo+projetos+para+o+futuro;Desenvolvedor+em+forma%C3%A7%C3%A3o;T%C3%A9cnico+em+Inform%C3%A1tica+%7C+Front-end"
+    alt="Desenvolvedor em formação, construindo projetos para o futuro"
+  />
+  <p>
+    <a href="https://github.com/trenkiz17" title="Meu GitHub">
+      <img alt="GITHUB" src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+    </a>
+    <a href="https://trenkiz17.github.io/portifolio/" title="Meu portfólio">
+      <img alt="PORTFÓLIO" src="https://img.shields.io/badge/PORTF%C3%93LIO-F5A623?style=flat-square&logo=googlechrome&logoColor=black" />
+    </a>
+  </p>
+
+  <!-- Quando tiver seus links, você pode acrescentar:
+  <a href="LINK_DO_SEU_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="LINK_DO_SEU_INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  -->
 
 </div>
 
-👨‍💻 Sobre mim
-- 🎓 Estudante do curso Técnico em Informática.
-- 🚀 Interesse em desenvolvimento de software, especialmente front-end.
-- 🧩 Desenvolvo projetos para colocar em prática o que aprendo.
-- 📚 Sempre aprendendo novas ferramentas, tecnologias e boas práticas.
-- 🎯 Em busca de oportunidades para crescer na área de Tecnologia da Informação.
-🛠️ Tecnologias e ferramentas
+
+Pilha
 Front-end
 
 
@@ -21,34 +42,43 @@ Front-end
 Back-end
 
 
-Bancos de dados
+Área de trabalho
+
+
+Banco de dados
 
 
 Ferramentas
 
 
 
-estatisticas
+Estatísticas
 <div align="center">
-  <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=trenkiz17&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" />
-  <img height="165" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trenkiz17&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img
+    width="49%"
+    alt="Estatísticas reais do meu GitHub"
+    src="https://github-readme-stats.vercel.app/api?username=trenkiz17&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=false&locale=pt-br&rank_icon=github"
+  />
+  <img
+    width="47%"
+    alt="Linguagens mais utilizadas nos meus repositórios"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=trenkiz17&layout=compact&theme=tokyonight&hide_border=false&langs_count=6"
+  />
 </div>
 
-📈 Atividade
+Atividade
 <div align="center">
-  <img alt="Gráfico de atividades do GitHub" src="https://github-readme-activity-graph.vercel.app/graph?username=trenkiz17&theme=github-compact&hide_border=true" />
+  <img
+    width="100%"
+    alt="Calendário de contribuições de trenkiz17"
+    src="https://ghchart.rshah.org/2ea043/trenkiz17"
+  />
 </div>
 
-🚀 Projetos em destaque
-🌱 AgroRISK
-Projeto de desenvolvimento envolvendo soluções para o setor agrícola.
+<!--
+  O GitHub já exibirá automaticamente abaixo deste README:
+  - Seus REPOSITÓRIOS FIXADOS (configure em 'Customize your pins')
+  - Seu CALENDÁRIO DE CONTRIBUIÇÕES oficial
 
-🌐 Meu portfólio
-Site pessoal com informações sobre minhas habilidades e meus projetos.
-💡 Veja outros projetos na seção Fixados (Pinned) do meu perfil.
-
-<div align="center">
-
-Obrigado pela visita! ✨
-
-</div>
+  O site inteiro, inclusive foto e menu superior, é interface padrão do GitHub.
+-->
