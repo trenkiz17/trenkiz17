@@ -22,33 +22,44 @@
   <a href="https://trenkiz17.github.io/portifolio/" target="_blank" title="Portfólio"><img height="20" alt="Portfólio" src="https://img.shields.io/badge/PORTF%C3%93LIO-FFAE42?style=for-the-badge&logo=googlechrome&logoColor=171717" /></a>
 </div>
 
+<br />
 
-Pilha
-Front-end
+---
+
+## Pilha
+
+**Front-end**
 
 <img height="20" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img height="20" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img height="20" alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=161616" />
 
-Back-end
+**Back-end**
 
 <img height="20" alt="Python" src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img height="20" alt="Flask" src="https://img.shields.io/badge/FLASK-151515?style=for-the-badge&logo=flask&logoColor=white" /> <img height="20" alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white" />
 
-Área de trabalho
+**Área de trabalho**
 
 <img height="20" alt="Windows" src="https://img.shields.io/badge/WINDOWS-4682B4?style=for-the-badge&logo=windows&logoColor=white" /> <img height="20" alt="Ubuntu" src="https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 
-Banco de dados
+**Banco de dados**
 
 <img height="20" alt="MySQL" src="https://img.shields.io/badge/MYSQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" /> <img height="20" alt="SQLite" src="https://img.shields.io/badge/SQLITE-00607E?style=for-the-badge&logo=sqlite&logoColor=white" />
 
-Ferramentas
+**Ferramentas**
 
 <img height="20" alt="Git" src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img height="20" alt="GitHub" src="https://img.shields.io/badge/GITHUB-202020?style=for-the-badge&logo=github&logoColor=white" /> <img height="20" alt="VS Code" src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> <img height="20" alt="Microsoft 365" src="https://img.shields.io/badge/MICROSOFT_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-Estatísticas
+
+---
+
+## Estatísticas
+
 <div align="left">
   <img height="107" alt="Estatísticas de Leonardo Silva no GitHub" src="https://github-readme-stats.vercel.app/api?username=trenkiz17&show_icons=true&include_all_commits=true&count_private=false&rank_icon=percentile&custom_title=Leonardo%20Silva%27s%20GitHub%20Stats&title_color=58A6FF&text_color=18C5A0&icon_color=C18CFF&bg_color=1B1D2B&border_color=6D7485&hide_border=false&locale=en" />&nbsp;<img height="107" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trenkiz17&layout=compact&langs_count=5&custom_title=Linguagens%20mais%20usadas&title_color=58A6FF&text_color=18C5A0&bg_color=1B1D2B&border_color=6D7485&hide_border=false" />
 </div>
 
-Atividade
+---
+
+## Atividade
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trenkiz17/trenkiz17/output/github-contribution-grid-snake-dark.svg" />
