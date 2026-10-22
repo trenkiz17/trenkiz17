@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/trenkiz17" title="Meu GitHub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3200&pause=250000&color=00E5F0&center=true&vCenter=true&width=540&height=52&lines=Leonardo+Silva" alt="Leonardo Silva" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3200&pause=250000&color=00E5F0&center=true&vCenter=true&width=540&height=52&lines=Leonardo+Silva" alt="Leonardo Barbosa" />
   </a>
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=550&height=34&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Sempre+aprendendo+algo+novo;Construindo+projetos+com+tecnologia" alt="Desenvolvedor em formação, sempre aprendendo algo novo" />
