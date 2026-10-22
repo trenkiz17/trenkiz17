@@ -28,7 +28,7 @@ Ferramentas
 
 
 
-📊 Estatísticas do GitHub
+estatisticas
 <div align="center">
   <img height="165" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=trenkiz17&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" />
   <img height="165" alt="Linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trenkiz17&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
